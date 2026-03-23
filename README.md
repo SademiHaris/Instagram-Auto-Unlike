@@ -9,4 +9,8 @@
 6. Ajoute le dossier "instagram-unliker"
 
 ## Utilisation
-Va sur `instagram.com/your_activity/interactions/likes`  Recharge la page une fois  Le script tourne automatiquement.
+Va sur `instagram.com/your_activity/interactions/likes`  
+
+Recharge la page une fois  
+
+Le script tourne automatiquement.
