@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Instagram Auto Unlike",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/your_activity/interactions/likes*"],
+      "js": ["script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
