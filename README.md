@@ -5,7 +5,7 @@
 2. Extrais le ZIP
 3. Ouvre GoogleChrome puis extensions -> chrome://extensions/
 4. En haut à droite active le "Mode Développeur"
-5. 
+5. Puis "Chargez l'extension non empaquetée"
 6. 
 
 ## Utilisation
