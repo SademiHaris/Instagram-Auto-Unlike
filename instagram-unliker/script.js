@@ -1,7 +1,7 @@
 (async function () {
   const sleep = ms => new Promise(r => setTimeout(r, ms));
   let totalUnliked = parseInt(sessionStorage.getItem('totalUnliked') || '0');
-  await sleep(3000);
+  await sleep(6000);
 
   const container = document.querySelector('.wbloks_94');
   if (!container) return;
