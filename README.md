@@ -3,8 +3,10 @@
 ## Installation (Windows)
 1. Télécharge le dossier en cliquant sur **Code → Download ZIP**
 2. Extrais le ZIP
-3. Double-clique sur `installer.bat`
-4. Suis les instructions à l'écran (30 secondes)
+3. Ouvre GoogleChrome puis extensions -> chrome://extensions/
+4. En haut à droite active le "Mode Développeur"
+5. 
+6. 
 
 ## Utilisation
 Va sur `instagram.com/your_activity/interactions/likes`
