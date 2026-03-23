@@ -15,7 +15,7 @@ echo Maintenant :
 echo 1. Chrome va s'ouvrir sur la page des extensions
 echo 2. Active le mode developpeur en haut a droite
 echo 3. Clique sur "Charger l'extension non empaquetée"
-echo 4. Selectionne le dossier : %USERPROFILE%\instagram-auto-unlike
+echo 4. Selectionne le dossier : instagram-auto-unlike
 echo.
 pause
 
