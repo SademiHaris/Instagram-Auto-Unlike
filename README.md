@@ -6,7 +6,7 @@
 3. Ouvre GoogleChrome puis extensions -> chrome://extensions/
 4. En haut à droite active le "Mode Développeur"
 5. Puis "Chargez l'extension non empaquetée"
-6. 
+6. Ajoute le dossier 
 
 ## Utilisation
 Va sur `instagram.com/your_activity/interactions/likes`
