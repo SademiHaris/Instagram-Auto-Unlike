@@ -8,4 +8,5 @@
 
 ## Utilisation
 Va sur `instagram.com/your_activity/interactions/likes`
-Le script tourne automatiquement 🙂
+Recharge la page une fois
+Le script tourne automatiquement.
